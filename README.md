@@ -1,15 +1,13 @@
-# Basic Sample Hardhat Project
+# :zap: Waveritium: The Incarnation I
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+![koha](https://user-images.githubusercontent.com/66284362/168624164-79e17a68-f19e-45a5-8b96-5d04fe9382b1.jpeg)
 
-Try running some of the following tasks:
+A tiny dAPP. All gears greased and running.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Network: rinkeby 🪐
+
+Do you need token to wave: Yes, get some here - [Faucet](https://faucets.chain.link/rinkeby)
+
+Where: [Waveritium](https://wavertium.kohasummons.repl.co/)
+![koha](https://user-images.githubusercontent.com/66284362/168624196-7a34e52c-75ee-4cdc-ac05-01372a659ed1.jpeg)
+
